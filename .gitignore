@@ -2,3 +2,4 @@ bin/
 *.class
 .DS_Store
 data/transformed_products.csv
+.DS_Store
