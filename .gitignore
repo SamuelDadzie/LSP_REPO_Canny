@@ -5,3 +5,4 @@ data/transformed_products.csv
 .DS_Store
 *.class
 .DS_Store
+lib/
